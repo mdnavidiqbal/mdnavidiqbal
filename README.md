@@ -1,3 +1,15 @@
+<!-- Smart Banner Section -->
+<div  align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Md.%20Navid%20Iqbal&fontSize=50&fontAlignY=30&desc=MERN%20Stack%20Developer&descSize=24&descAlignY=50)
+    <div align="center">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </div>
+</div>
+
 # Hello, I'm Md.Navid Iqbal! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Passionate+Coder;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
