@@ -59,7 +59,7 @@ I'm a passionate MERN Stack Developer from Bangladesh with a strong foundation i
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnavidiqbal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔗 Connect with Me
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-navid-iqbal-8b84092a0)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-navid-iqbal)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/navid.iqbal.982)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
