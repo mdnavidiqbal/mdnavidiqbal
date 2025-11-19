@@ -75,4 +75,4 @@ I'm a passionate MERN Stack Developer from Bangladesh with a strong foundation i
   <img src="https://komarev.com/ghpvc/?username=mdnavidiqbal&color=blueviolet" alt="Profile Views" />
 </p>
 
-⭐️ From (https://github.com/mdnavidiqbal)
+⭐️ From: https://github.com/mdnavidiqbal
