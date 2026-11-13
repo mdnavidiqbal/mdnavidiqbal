@@ -1,73 +1,137 @@
-<!-- Smart Banner Section -->
-<div  align="center">
-    <div align="center">
-      <img src="https://i.ibb.co.com/DggbpXHG/Md-Navid-Iqbal.png" alt="Md. Navid Iqbal - MERN Stack Developer" width="100%" />
-  </div>
+ <div align="center">
+
+<img src="https://i.ibb.co.com/DggbpXHG/Md-Navid-Iqbal.png" width="100%" alt="Md. Navid Iqbal Banner"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Md.+Navid+Iqbal+%F0%9F%91%8B;MERN+Stack+Developer;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Growing" alt="Typing SVG"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mdnavidiqbal&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mdnavidiqbal?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+</p>
+
 </div>
-
-# Hello, I'm Md.Navid Iqbal! 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Passionate+Coder;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-## 🚀 About Me
-I'm a passionate MERN Stack Developer from Bangladesh with a strong foundation in JavaScript and its ecosystem. I love building scalable web applications and solving complex problems through code.
-
-- 🌱 I’m currently learning **Next.js, TypeScript, AWS**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, JavaScript**
-- 📫 How to reach me: navidiqbal2000@gmail.com
-- ⚡ Fun fact: I love debugging more than coding! 😄
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdnavidiqbal&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnavidiqbal&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnavidiqbal&layout=compact&theme=radical" />
-</p>
-
-## 📈 Productivity Stats
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnavidiqbal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🔗 Connect with Me
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-navid-iqbal)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/navid.iqbal.982)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdnavidiqbal&color=blueviolet" alt="Profile Views" />
+## 👨‍💻 About Me
+
+I'm **Md. Navid Iqbal**, a passionate **MERN Stack Developer** from Bangladesh 🇧🇩. I enjoy transforming ideas into modern, responsive, and scalable web applications.
+
+I focus on writing clean code, solving problems, and continuously improving my development skills.
+
+- 🔭 Currently focusing on **Full Stack Web Development**
+- 🌱 Exploring **Next.js, TypeScript & AWS**
+- 💻 Experienced with **React.js, Node.js, Express.js & MongoDB**
+- 👯 Interested in collaborating on **Open Source Projects**
+- 🎯 Goal: Become a skilled Software Engineer
+- ⚡ Fun fact: I love debugging more than coding!
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-⭐️ From: https://github.com/mdnavidiqbal
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify" />
+</p>
+
+### 📚 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,aws,docker" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdnavidiqbal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnavidiqbal&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnavidiqbal&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnavidiqbal&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mdnavidiqbal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdnavidiqbal&repo=Online-Nikha-Registration&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-navid-iqbal">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://facebook.com/navid.iqbal.982">
+<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="mailto:navidiqbal2000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/mdnavidiqbal">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Create. Innovate. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer" width="100%"/>
+
+**Thanks for visiting my profile!** ⭐
+
+</div>
